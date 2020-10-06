@@ -12,14 +12,17 @@ Nossos designers devem ser capazes de criar soluções que envolvem visual desig
 Na **brainn** não trabalhamos ferramentas específicas ou obrigatórias. Somos poliglotas e incentivamos o uso de novas tecnologias desde que o time concorde em conjunto e esteja preparado para assumir os riscos de ter que reimplementar utilizando alguma tecnologia mais tradicional em casos de incidentes. Entretanto, nesse momento, temos algumas preferências para o desenvolvimentos de conceitos visuais, interfaces, apresentações e _handoof_ de assets:
 
 **Visual Design**
+* Figma
 * Adobe Photoshop
 * Adobe Illustrator
 * SketchApp
 
 **Interfaces**
+* Figma
 * SketchApp
 
 **Protótipos e Mockups**
+* Figma
 * Invision
 * Craft
 * MarvelApp
